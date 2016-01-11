@@ -5,7 +5,7 @@ Collection of handcrafted Vagrant Boxes
 
 Import the box
 ```bash
-vagrant box add dupal https://github.com/cundd/vagrant-boxes/releases/download/0.1.0/alpine-3.3.0-x86_64.box;
+vagrant box add dupal https://github.com/cundd/vagrant-boxes/releases/download/0.1.0/alpine-3.3.0-x86_64.box
 vagrant init dupal;
 vagrant up;
 ```
